@@ -5,9 +5,9 @@
   <subtitle>独自行走于莽荒之地</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://m09ic.top/"/>
+  <link href="https://m09ic.top/m09ictest.github.io/"/>
   <updated>2020-06-07T05:38:05.316Z</updated>
-  <id>https://m09ic.top/</id>
+  <id>https://m09ic.top/m09ictest.github.io/</id>
   
   <author>
     <name>M09ic</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo插件开发笔记--hexo-generator-wordcloud</title>
-    <link href="https://m09ic.top/posts/38789/"/>
-    <id>https://m09ic.top/posts/38789/</id>
+    <link href="https://m09ic.top/m09ictest.github.io/posts/38789/"/>
+    <id>https://m09ic.top/m09ictest.github.io/posts/38789/</id>
     <published>2020-06-03T09:16:23.000Z</published>
     <updated>2020-06-07T05:38:05.316Z</updated>
     
@@ -36,10 +36,10 @@
     
     </summary>
     
-      <category term="开发" scheme="https://m09ic.top/categories/%E5%BC%80%E5%8F%91/"/>
+      <category term="开发" scheme="https://m09ic.top/m09ictest.github.io/categories/%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="hexo" scheme="https://m09ic.top/tags/hexo/"/>
+      <category term="hexo" scheme="https://m09ic.top/m09ictest.github.io/tags/hexo/"/>
     
   </entry>
   
